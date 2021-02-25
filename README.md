@@ -172,7 +172,7 @@ Hasta esta interfaz se navega al pulsar en las flechas que están a la derecha d
 
 Esta es la ventana de edición de registros, también juega con la visibilidad ya que cada operación tiene datos distintos. Cuenta con scroll para editar todo lo necesario en la misma pantalla y al final del todo hay un botón que guaradará los cambios.
 
-![Editar varada](img/capturasPrototipado/EditarVarada.PNG)
+![Editar varada](img/capturasPrototipado/Editararada.PNG)
 ![Editar traslado en seco](img/capturasPrototipado/EditarTSeco.PNG)
 
 Como se puede ver, en la mayoría de interfaces aparece un icono de una cámara, al pulsar sobre él navegará hacia la interfaz dedicada a la adición de fotos, esta interfaz tiene dos versiones a pesar de ser la misma interfaz, a la primera se accede desde las interfaces de los pasos de cada operación y coincide con la primera imagen mostrada, a la segunda se accede desde la pantalla de edición y coincide con la segunda imagen. Como se puede ver ambas tienen un cuadro para insertar la imagen, al pulsar sobre el botón "añadir foto", esta se añadirá, en la segunda imagen hay un desplegable que sirve para indicar en que paso se quiere añadir dicha imagen, en la otra no hace falta ya que es automático debido a que se ingresa a la interfaz desde un paso concreto. Bajo el botón aparecen las imágenes en una tarjeta, junto con el paso en el que han sido sacadas y un icono de papelera, este sirve para borrar esa imagen. En la esquina superior derecha hay una flecha de actualización, esta actualizará la lista de imágenes al ser pulsada. Por último en la esquina superior izquierda se encuentra la flecha que sirve para volver a la página anterior.
