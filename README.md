@@ -105,7 +105,7 @@ Ambos usuarios tienen la posibilidad de activar o desactivar el modo oscuro seg�
 
 ### 6.1. Diseño Inicial:<a name="idDiseño"></a>
 
-Al entrar en la aplicación como usuario de Astican solo podrás ver los detalles de la última operación, al ser 4 operaciones diferentes, en la misma interfaz se juega con la visibilidad de la información para mostrar la adecuada, debido a la cantidad de datos que hay, se ha optado por hacer una ventana con scroll que muestre toda la información. Cabe destacar que esta interfaz es la misma que la de detalles que verá el gestor pero sin el icono del lápiz que llevará al gestor a la ventana de edición como se verá más adelante. Hasta ahora la aplicación trabaja con 2 operaciones de las 4 por eso solo se muestran capturas de esas dos. La flecha superior izquierda sirve para salir en el caso de los usuarios de Astican y para volver atrás en el caso del gestor. Se puede observar que debajo del título hay un botón deslizante, este permite al usuario de Astican cambiar el modo de visualización de la aplicación a modo oscuro. Más adelante se verá como luce este modo.
+Al entrar en la aplicación como usuario de Astican solo podrás ver los detalles de la última operación, al ser 4 operaciones diferentes, en la misma interfaz se juega con la visibilidad de la información para mostrar la adecuada, debido a la cantidad de datos que hay, se ha optado por hacer una ventana con scroll que muestre toda la información. Cabe destacar que esta interfaz es la misma que la de detalles que verá el gestor pero sin el icono del lápiz que activará el modo de edición de la operación ni el icono de la cámara que le llevará a la ventana de imágenes como se verá más adelante. La flecha superior izquierda sirve para salir en el caso de los usuarios de Astican y para volver atrás en el caso del gestor. Se puede observar que debajo del título hay un botón deslizante, este permite al usuario de Astican cambiar el modo de visualización de la aplicación a modo oscuro. Más adelante se verá como luce este modo.
 
 ![Detalles Varada Usuario](img/capturasPrototipado/DetallesUsuarioVarada.PNG)
 ![Detalles Traslado en seco Usuario](img/capturasPrototipado/DetallesUsuarioTSeco.PNG)
@@ -168,8 +168,7 @@ Cuando se pulsa el botón de "ver operaciones" que hay en el menú del gestor, t
 
 Hasta esta interfaz se navega al pulsar en las flechas que están a la derecha de las tarjetas. Como se puede ver es la misma interfaz que la de detalles de los usuarios de Astican pero con el icono del lápiz que lleva a la ventana de edición de la operación en cuestión. La información presentada dependerá del registro escogido y de su tipo de operación.
 
-![Detalles gestor varada](img/capturasPrototipado/DetallesGestorVarada.PNG)
-![Detalles gestor traslado en seco](img/capturasPrototipado/DetallesGestorTSeco.PNG)
+![Detalles gestor varada](img/capturasPrototipado/DetallesGestorvarada.PNG)
 
 Esta es la ventana de edición de registros, también juega con la visibilidad ya que cada operación tiene datos distintos. Cuenta con scroll para editar todo lo necesario en la misma pantalla y al final del todo hay un botón que guaradará los cambios.
 
