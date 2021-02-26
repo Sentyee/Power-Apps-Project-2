@@ -129,9 +129,9 @@ Cada operación tiene sus pasos aunque algunos son comunes entre ellos. El prime
 ![Paso Inicio](imgProyecto2/capturasPrototipado/PasoInicio.PNG)
 ![Paso Inicio Lleno](imgProyecto2/capturasPrototipado/PasoInicioLleno.PNG)
 
-El siguiente paso en la varada es "Cama de varada" aquí se encuentran dos checkbox que recogen la fecha y hora del momento en el que son pulsados además de mostrar un mensaje que te indica la fecha y hora guardada, se encuentra también un desplegable que te dejará elegir entre varias opciones para seleccionar la tipología. El botón de abajo te lleva al siguiente paso.
+El siguiente paso en la varada es "Cama de varada" aquí se encuentran dos checkbox que recogen la fecha y hora del momento en el que son pulsados además de mostrar un mensaje que te indica la fecha y hora guardada, se encuentra también dos desplegables de selección múltiple que te dejarán elegir entre varias opciones para seleccionar la tipología y la viga de varada. Esta interfaz y el resto de interfaces relacionadas con las fases de las operaciones tienen los botones para volver atrás y para ir a la siguiente fase, estando este último deshabilitado hasta que se rellenen los campos de dicha interfaz. También en el resto de interfaces aparecerá un nuevo icono en el footer, este te llevará al menú principal y activará el botón que se vió previamente para volver a la operación en curso.
 
-![Cama Varada](img/capturasPrototipado/CamaVarada.PNG)
+![Cama Varada](imgProyecto2/capturasPrototipado/CamaVarada.PNG)
 
 El siguiente paso es "Planificacion", es el tercer paso de la varada y el segundo del traslado en seco. La primera imagen corresponde con la apariencia de la pantalla cuando es una varada, como se puede ver tiene un desplegable que da varias opciones, un checkbox que recoge la fecha y hora en la que es pulsado, dos cuadros de texto para escribir la hora y dos para escribir los minutos y por último un cuadro de texto para escribir el número de remolcadores. En cuanto a la segunda imagen, que corresponde con el traslado en seco hay dos cuadros de texto normales, dos checkbox que recogen la fecha y hora actual cuando son pulsados y un cuadro de texto para la hora y otro para los minutos. El botón de abajo sirve para cambiar de fase en ambos casos.
 
