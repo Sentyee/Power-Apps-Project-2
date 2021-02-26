@@ -24,7 +24,7 @@
   
 * [8. Pila Tecnológica](#idPilaTecnologica)
   * [8.1. Microsoft Power Apps](#idPowerApps)
-  * [8.2. Microsoft Excel](#idExcel)
+  * [8.2. Microsoft SharePoint](#idSP)
 
 * [9. Comparación de tecnologías](#idComparacionTecnologias)
 
@@ -280,16 +280,16 @@ Como se puede ver, en la mayoría de interfaces aparece el icono de la cámara e
 * [7.1.2. Solucion problemas](#idSproblemas)
 
 #### 7.1.1. Funciones Básicas:<a name="idFbasicas"></a>
-Si es un usuario de Astican con acceso a la aplicación solo podrá ver los detalles de la última operación, para salir de la aplicación pulse la flecha que hay en la esquina superior izquierda y para cambiar al modo oscuro dispone de un botón deslizable bajo el título de la pantalla para cambiarlo.
+Si es un usuario de Astican con acceso a la aplicación solo podrá ver los detalles de la última operación, para salir de la aplicación pulse la flecha que hay en la esquina superior izquierda y para cambiar al modo oscuro dispone del footer con el engranaje para ir a la pantalla de configuración además de tener acceso a la ayuda de la aplicación al clickar sobre el icono de exclamación del footer.
 
-Si es el gestor de la aplicación dispondrá de cinco botones principales, los cuatro primeros le permetirán realizar las operaciones fase por fase rellenando cada uno de los campos y una vez se llegue al paso final la aplicación volverá al menú principal. El quinto botón le llevará a una página que le permetirá ver las operaciones ya hechas y podrá buscar por nombre de barco y por tipo de operación, si quiere ver más detalles pinche en la flecha que aparece al lado derecho de cada operación y si tras ver los detalles desea modificar alguna pinche sobre el lápiz que aparece en la esquina superior derecha. Una vez en la pestaña de edición modifique los registros que desee y pulse el botón de abajo del todo para guardar cambios. Si quiere ver las fotos añadidas pulse sobre la cámara que aparece arriba a la derecha, también tiene la opción de añadir más, esta opción también está disponible en cada fase de cada operación en el momento de crearla. Para volver al menú principal pulse en las flechas que aparecen arriba a la izquiera en cada pantalla hasta regresar al menú principal. De vuelta en el menú principal verá un engranaje, este desplegará un pequeño menú que le permitirá cambiar el modo de visualizavión de la aplicación.
+Si es el gestor de la aplicación dispondrá de dos botones principales, el primero le permetirán realizar las operaciones fase por fase rellenando cada uno de los campos y una vez se llegue al paso final la aplicación volverá al menú principal. El segundo botón le llevará a una página que le permetirá ver las operaciones ya hechas y podrá buscar por nombre de barco y por tipo de operación, también puede filtrar por tipo de operación al pinchar sobre las pestañas, si quiere ver más detalles pinche en la flecha que aparece al lado derecho de cada operación y si tras ver los detalles desea modificar alguna pinche sobre el lápiz que aparece en la esquina inferior derecha. Una vez en la pestaña de edición modifique los registros que desee y pulse el icono de abajo a la izquierda para guardar cambios. Si quiere ver las fotos añadidas pulse sobre la cámara que aparece abajo, también tiene la opción de añadir más, esta opción también está disponible en cada fase de cada operación en el momento de crearla. Para volver al menú principal pulse en las flechas que aparecen arriba a la izquiera en la pantalla de edición o detalles y en el icono de la casa para regresar al menú principal. En todas la mayoría de interfaces verá un icono de un engranaje, este abrirá la ventana de configuración.
 
 #### 7.1.2. Solución de problemas:<a name="idSproblemas"></a>
-Si al intentar editar o crear alguna operación sale un mensaje de error, asegúrese de que el origen de datos (el Excel) no está abierto, si es así, ciérrelo e intente editar o crear de nuevo.
+Si al ver los detalles de la operación algunos campos no concuerdan o no aparecen, asegúrese de que ningún campo se ha duplicado en la lista de SharePoint.
 
 ### 7.2. Manual de instalacion:<a name="idManualInstalacion"></a>
 
-Para instalar esta aplicación deberá importarla en su cuenta de Power Apps (en la web o en la aplicación de escritorio) o que el creador de la aplicación se la comparta. En algunos casos hay problemas para compartir el Excel así que es posible que necesite una copia de la base de datos. Es muy importante que no modifique nada de ese archivo Excel, deberá entrar en el modo de edición de la aplicación y deberá poner como origen de datos ese archivo Excel que previamente debe subir a una cuenta de Microsoft OneDrive, es decir, subirá el Excel a una cuenta de OneDrive y creará una nueva conexión con esa cuenta. Para crear la conexión vaya al apartado "datos" dentro del editor de la aplicación, seleccione el apartado "conectores" y elija la opción de OneDrive, agregue la conexión con la cuenta en la que tiene el Excel y elíjala, una vez hecho esto le aparecerá el Excel, selecciónelo y le aparecerán las tablas, selecciónelas todas y añádalas a la aplicación, una vez hecho esto, debería funcionar correctamente.
+Para instalar esta aplicación deberá importarla en su cuenta de Power Apps (en la web o en la aplicación de escritorio) o que el creador de la aplicación se la comparta. Necesitará acceso a las listas de SharePoint. Es muy importante que no modifique ninguna de las listas, deberá entrar en el modo de edición de la aplicación y deberá poner como origen de datos esas listas de SharePoint. Para crear la conexión vaya al apartado "datos" dentro del editor de la aplicación, seleccione el apartado "conectores" y elija la opción de SharePoint, agregue la conexión con la cuenta en la que tiene las listas de SharePoint y elíjala, una vez hecho esto le aparecerán las listas, selecciónelas y le aparecerán las tablas, selecciónelas todas y añádalas a la aplicación, una vez hecho esto, debería funcionar correctamente.
 
 ## 8. Pila Tecnológica<a name="idPilaTecnologica"></a>
 
@@ -299,8 +299,8 @@ En Power Apps se puede desarrollar una aplicación desde 0 o a partir de un mode
 
 Todo en Power Apps es de manera visual, vas arrastrando los objetos que necesitas sobre un lienzo que será tu pantalla, ofrece la posibilidad de modificar el diseño de dichos objetos y de cambiarle algunas de sus características para que funcionen tal y como el usuario desea. Ofrece una gran cantidad de funciones predefinidas por las que puedes programar las funciones de los objetos. Además, da la posibilidad de crear variables a las que le puedes asignar desde un simple integer a una tabla completa de tu origen de datos.
 
-### 8.2 Microsoft Excel:<a name="idExcel"></a>
-Microsoft Excel es una hoja de cálculo mundialmente conocida que también permite el almacenaje de datos en su sistema de celdas. Gracias a la creación de tablas que proporciona Excel, se pueden guardar los datos generados en la aplicación para más tarde visualizarlos o editarlos.
+### 8.2 Microsoft SharePoint:<a name="idSP"></a>
+Microsoft SharePoint es un sistema gestor de datos creado por Microsoft que requiere de licencia, su funcionamiento es simple y similar al funcionamiento de tablas de un Excel. Cada lista de SharePoint es como una tabla que puede tener varios registros. Al ser un sistema gestor de datos de Microsoft tiene mucha afinidad con Power Apps lo que lo convierte en la mejor opción para crear aplicaciones con Power Apps.
 
 ## 9. Comparación de tecnologías<a name="idComparacionTecnologias"></a>
 
@@ -318,7 +318,7 @@ Por el funcionamiento de Power Apps diría que las aplicaciones que genera se tr
 
 Este es el repositorio de GitHub en el que se encuentra la documentación:
 ```
-https://github.com/acoidan-santana/proyectoAstican.git
+https://github.com/Sentyee/Power-Apps-Project-2.git
 ```
 
 ## 11. Planificación<a name="idPlanificacion"></a>
