@@ -312,7 +312,7 @@ Una aplicación web es una aplicación desarrollada para ser utilizada por los n
 
 Una aplicación híbrida es aquella que combina a las dos anteriores tipos de aplicaciones, estas aplicaciones se instalan en los dispositivos a pesar de no estar desarrolladas para ningún sistema operativo en específico y hacen uso del navegador web para funcionar correctamente.
 
-Por el funcionamiento de Power Apps diría que las aplicaciones que genera se tratan de aplicaciones híbridas ya que además de permitirte la creación de aplicaciones móviles permite la creación de aplicaciones para escritorio y tablets, además las aplicaciones se pueden reproducir desde la página de Power Apps en el navegador.
+Por el funcionamiento de Power Apps las aplicaciones que genera se tratan de aplicaciones híbridas ya que además de permitirte la creación de aplicaciones móviles permite la creación de aplicaciones para escritorio y tablets, además las aplicaciones se pueden reproducir desde la página de Power Apps en el navegador.
 
 ## 10. Repositorios<a name="idRepositorios"></a>
 
@@ -331,14 +331,14 @@ Cuando Víctor acabó la base de datos, Acoidán ya tenía gran parte de la app 
 
 ## 12. Conclusiones<a name="idConclusiones"></a>
 
-En cuanto al desarrollo con Power Apps, si bien parece fácil de usar y de hacer aplicaciones con el, el hecho de ser totalmente distinto a cualquier lenguaje de programación y de tener ese sistema tan visual de trabajar con la aplicación, ha hecho que me resulte muy complicado desarrollar con él, a medida que he ido entendiendo como trabaja he ido haciendo las cosas más rápido. Hay ciertos limitantes en Power Apps que añaden mucha dificultad a la hora de desarrollar una aplicación grande como la que estoy desarrollando, he invertido muchísimas horas en ver por qué no me funcionaba una cosa u otra, cosas que probablemente con un lenguaje de programación normal se harían al instante. Una vez entiendes el funcionamiento, es muy fácil de usar y de aplicar las funciones predeterminadas que tiene. Sin duda lo mejor que tiene es que te quita el trabajo en cuanto a la conexión con la base de datos se refiere ya que lo hace todo él solo.
+En cuanto al desarrollo con Power Apps, si bien parece fácil de usar y de hacer aplicaciones con el, el hecho de ser totalmente distinto a cualquier lenguaje de programación y de tener ese sistema tan visual de trabajar con la aplicación, ha hecho que nos resulte muy complicado desarrollar con él, a medida que lo hemos ido entendiendo, las cosas se han desarrollado más rápido. Hay ciertos limitantes en Power Apps que añaden mucha dificultad a la hora de desarrollar una aplicación grande como la que hemos estado desarrollando, hemos invertido muchísimas horas en ver por qué no funcionaba una cosa u otra, cosas que probablemente con un lenguaje de programación normal se harían más rápido. Una vez entendido el funcionamiento, es muy fácil de usar y de aplicar las funciones predeterminadas que tiene. Sin duda lo mejor es que quita el trabajo en cuanto a la conexión con la base de datos se refiere ya que todo se hace de forma automática.
 
-En relación al modelo de datos, ha sido bastante complicado obtener el modelo de datos que finalmente he realizdo, ya que es un proceso del que nunca había oído nada y no tenía idea alguna de que clase de datos recogían. Hasta que no nos enviaron el borrador de la aplicación junto con sus tablas de resúmenes no tuve mas o menos claro lo que pedían y aún con los datos hay alguna cosa que no entiendo bien.
+En relación al modelo de datos, ha sido bastante complicado obtener el modelo de datos que finalmente hemos realizado, ya que es un proceso del que nunca habíamos oído nada y no teníamos idea alguna de que clase de datos recogían. Hasta que se nos envió el borrador de la aplicación junto con sus tablas de resúmenes no tuvimos del todo claro lo que pedían y aún con los datos hay algunas cosas que no entendemos bien.
 
-Pasando al proyecto, me parece super interesante aunque se me ha hecho muy complicado entenderlo bien y poder desarrollar la aplicación en condiciones debido a lo comentado anteriormente.
+Mirando al proyecto en conjunto, nos ha parecido una experiencia interesante y diferente, aunque al ser un entorno tan distinto al de nuestros compañeros nos ha sido relativamente complicado adaptarnos y trabajar contra las limitaciones de la plataforma, pero por otra parte, hemos podido probar una alternativa a crear aplicaciones con código que si se sigue desarrollando, tiene gran potencial.
 
 ## 13. Enlaces y referencias<a name="idEnlaceReferencias"></a>
-Para entender el funcionamiento de Power Apps y como crear aplicaciones con este software me he valido principalmente de 3 fuentes:
+Para entender el funcionamiento de Power Apps y como crear aplicaciones con este software nos hemos valido principalmente de 3 fuentes:
 
 _Canal de Youtube "Martín Gesualdo"_
 ```
