@@ -179,7 +179,7 @@ En "servicios básicos", hay tres checkbox que recogen la fecha y hora actual al
 En "maniobra a flote" hay dos checkbox, un desplegable y un botón delizable, el botón de "guardar y finalizar" hace lo mismo que el de "servicios básicos"
 
 ![Servicios Básicos](imgProyecto2/capturasPrototipado/ServiciosBasicos.PNG)
-![Servicios Básicos traslado a flote](imgProyecto2/capturasPrototipado/ServiciosBasicosTFLote.PNG)
+![Servicios Básicos traslado a flote](imgProyecto2/capturasPrototipado/ServiciosBasicosTFlote.PNG)
 ![Maniobra a flote](imgProyecto2/capturasPrototipado/ManiobraAFlote.PNG)
 
 Cuando se pulsa el botón de "ver operaciones" que hay en el menú del gestor, te llevará a esta pantalla, la pantalla "visualizador", que te permite ver las operaciones por orden de identificador, es un menú con scroll para ver todas las operaciones que salen con presentación de tarjetas. En el cuadro de texto se puede buscar por tipo de operación y por nombre de barco. Al pulsar sobre las flechas ubicadas a la derecha de cada tarjeta se abrirá la ventana de detalles de esa operación y si se pincha sobre la flecha de arriba a la izquierda se vuelve a la ventana anterior.
