@@ -197,10 +197,9 @@ Al hacer click en el lápiz se activa el modo edición, que es la misma interfaz
 ![Detalles gestor varada](imgProyecto2/capturasPrototipado/DetallesGestorVarada.PNG)
 ![Editar](imgProyecto2/capturasPrototipado/Editar.PNG)
 
-Como se puede ver, en la mayoría de interfaces aparece un icono de una cámara, al pulsar sobre él navegará hacia la interfaz dedicada a la adición de fotos, esta interfaz tiene dos versiones a pesar de ser la misma interfaz, a la primera se accede desde las interfaces de los pasos de cada operación y coincide con la primera imagen mostrada, a la segunda se accede desde la pantalla de edición y coincide con la segunda imagen. Como se puede ver ambas tienen un cuadro para insertar la imagen, al pulsar sobre el botón "añadir foto", esta se añadirá, en la segunda imagen hay un desplegable que sirve para indicar en que paso se quiere añadir dicha imagen, en la otra no hace falta ya que es automático debido a que se ingresa a la interfaz desde un paso concreto. Bajo el botón aparecen las imágenes en una tarjeta, junto con el paso en el que han sido sacadas y un icono de papelera, este sirve para borrar esa imagen. En la esquina superior derecha hay una flecha de actualización, esta actualizará la lista de imágenes al ser pulsada. Por último en la esquina superior izquierda se encuentra la flecha que sirve para volver a la página anterior.
+Como se puede ver, en la mayoría de interfaces aparece el icono de la cámara en el footer, al pulsar sobre él navegará hacia la interfaz dedicada a la adición de fotos. La interfaz tiene un cuadro para insertar la imagen, al pulsar sobre el botón "añadir foto", que se encuentra deshabilitado hasta que añadimos una foto, esta se añadirá. En la interfaz se autocompleta el paso en el que se sacó la foto debido a que se ingresa a la interfaz desde un paso concreto, en el caso de entrar desde la ventana de detalles, se preguntará primero en que paso se desea añadir la imagen. Bajo el botón aparecen las imágenes en una tarjeta junto con el paso en el que han sido sacada. Por último en la parte de abajo hay un botón que sirve para volver a la página anterior.
 
-![Añadir foto fases](img/capturasPrototipado/AñadirFotoFases.PNG)
-![Añadir foto editar](img/capturasPrototipado/AñadirFotoEditar.PNG)
+![Añadir foto](imgProyecto2/capturasPrototipado/AñadirFoto.PNG)
 
 ### 6.2. Usabilidad:<a name="idUsabilidad"></a>
 
