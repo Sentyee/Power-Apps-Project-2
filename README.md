@@ -121,7 +121,7 @@ Se puede ver el mismo footer que se encuentra en el menú del resto de usuarios 
 
 En esta pantalla aparece un botón para volver a la operación justo en el punto en que se dejó cuando se salió de esta para regresar al menú.
 
-![Menu Gestor](img/capturasPrototipado/MenuGestor.PNG)
+![MenuGestor](img/capturasPrototipado/MenuGestor.PNG)
 ![Menu Gestor Botón Volver](img/capturasPrototipado/MenuGestorBotonVolver.PNG)
 
 Cada operación tiene sus pasos aunque algunos son comunes entre ellos. Como ya se mencionó, por ahora se trabaja con la varada y el traslado en seco por lo que comnezaré mostrando los pasos de la varada y cuando coincida con alguna interfaz del traslado en seco, dicha interfaz será mostrada en sus dos versiones.
