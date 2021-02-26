@@ -335,6 +335,14 @@ El día 12 de diciembre con la aplicación casi acabada, me puse a hacer el mode
 
 El día 13 de diciembre seguí ultimando la aplicación y a modificar y completar la documentación.
 
+
+
+Tras la segunda reunión a finales del primer trimestre, quedó un poco más claro como iba a ser el modelo de datos, querían que los desplegables fueran editables, por lo que se deberían contemplar en el modelo de datos. Una vez empezamos con el proyecto 2, nos pusimos manos a la obra con el diagrama entidad relación, decidimos usar de base el que había hecho Acoidán para el proyecto 1 pero cambiando una gran parte para que fuese más eficiente y completo.
+
+Tuvimos una tercera reunión de la que sacamos alguna cosa a modificar en el diagrama, una vez hecho, Víctor comenzó a trabajar en la base de datos, que migramos a SharePoint debido a lo que hablamos en esa reunión, mientras que Acoidán comenzó con una aplicación nueva desde cero ya que usaríamos la aplicación que desarrolló en el proyecto 1 como base.
+
+Cuando Víctor acabó la base de datos, Acoidán ya tenía gran parte de la app hecha y pudo empezar a hacer pruebas con la base de datos. Víctor comenzó con la ayuda de la aplicación, a la vez que Acoidán seguía haciendo avances con la app. Con la app casi al completo Acoidán realizó el diagrama relacional y modificó y actualizó su documentación del primer trimestre para que encajara con la nueva app y el proyecto 2 en general. Víctor, tras acabar la ayuda, empezó a ver el funcionamiento de Power BI para la implementación de gráficos e informes en la aplicación.
+
 ## 12. Conclusiones<a name="idConclusiones"></a>
 
 En cuanto al desarrollo con Power Apps, si bien parece fácil de usar y de hacer aplicaciones con el, el hecho de ser totalmente distinto a cualquier lenguaje de programación y de tener ese sistema tan visual de trabajar con la aplicación, ha hecho que me resulte muy complicado desarrollar con él, a medida que he ido entendiendo como trabaja he ido haciendo las cosas más rápido. Hay ciertos limitantes en Power Apps que añaden mucha dificultad a la hora de desarrollar una aplicación grande como la que estoy desarrollando, he invertido muchísimas horas en ver por qué no me funcionaba una cosa u otra, cosas que probablemente con un lenguaje de programación normal se harían al instante. Una vez entiendes el funcionamiento, es muy fácil de usar y de aplicar las funciones predeterminadas que tiene. Sin duda lo mejor que tiene es que te quita el trabajo en cuanto a la conexión con la base de datos se refiere ya que lo hace todo él solo.
