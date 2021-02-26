@@ -156,9 +156,9 @@ La tercera interfaz es el paso de "tralado a flote" de la propia operación tras
 ![Primer Movimiento](imgProyecto2/capturasPrototipado/PrimerMovimiento.PNG)
 ![Fase Traslado a Flote](imgProyecto2/capturasPrototipado/FaseTFlote.PNG)
 
-A continuación está la interfaz de la fase "Submarinistas", esta tiene un cuadro de texto y dos checkbox para la fecha y hora además del botón que tienen todas las interfaces de los pasos para cambiar de fase.
+A continuación en la varada está la interfaz de la fase "Submarinistas", esta tiene un desplegable y dos checkbox para la fecha y hora además de los botones que tienen todas las interfaces de los pasos para cambiar de fase o volver atrás.
 
-![Submarinistas](img/capturasPrototipado/Submarinistas.PNG)
+![Submarinistas](imgProyecto2/capturasPrototipado/Submarinistas.PNG)
 
 El siguiente paso es el denominado "Syncrolift" aquí hay tres checkbox que toman la fecha y hora actual cuando son pulsados. El botón de abajo navega hacia el siguiente paso.
 
