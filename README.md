@@ -113,16 +113,16 @@ En la ventana de configuración se muestra un botón de cambio a modo oscuro. A 
 ![Ventana Configuración](img/capturasPrototipado/VentanaConfiguracion.PNG)
 ![Ventana Configuración Modo Oscuro](img/capturasPrototipado/VentanaConfiguracionOscuro.PNG)
 
-En cuanto al gestor, es la única persona que hará uso de todas las funcionalidades de la aplicación, al iniciar la aplicación entrará a su menú. En el menú encontrará botones con los procedimientos que puede realizar y al final un botón que le muestra una previsualización de las operaciones.
+En cuanto al gestor, es la única persona que hará uso de todas las funcionalidades de la aplicación, al iniciar la aplicación entrará a su menú. En el menú encontrará un botón para crear las operaciones que puede realizar y un botón que le muestra una previsualización de las operaciones.
 
-El botón "varada", "traslado en seco", "botadura" y "traslado en mojado" llevan a las ventanas donde se muestran los pasos de cada operación mientras que el botón "ver procedimientos" permite como ya ha sido mencionado, previsualizar las operaciones que ya han sido realizadas.
+El botón "nueva operación" llevan a las ventanas donde se muestran los pasos de cada operación mientras que el botón "visualizador" permite como ya ha sido mencionado, previsualizar las operaciones que ya han sido realizadas.
 
-El icono de engranaje sirve para abrir un menú desplegable que te permite cambiar el color de la aplicación al modo oscuro cuando le das al botón deslizante. Al volver a pinchar sobre el engranaje se cierra el desplegable.
+Se puede ver el mismo footer que se encuentra en el menú del resto de usuarios con las mismas opciones.
+
+En esta pantalla aparece un botón para volver a la operación justo en el punto en que se dejó cuando se salió de esta para regresar al menú.
 
 ![Menu Gestor](img/capturasPrototipado/MenuGestor.PNG)
-![Menu Gestor desplegable](img/capturasPrototipado/MenuGestorDesplegable.PNG)
-![Menu Gestor modo oscuro desplegable](img/capturasPrototipado/MenuGestorModoOscuroDesplegable.PNG)
-![Menu Gestor modo oscuro](img/capturasPrototipado/MenuGestorModoOscuro.PNG)
+![Menu Gestor Botón Volver](img/capturasPrototipado/MenuGestorBotonVolver.PNG)
 
 Cada operación tiene sus pasos aunque algunos son comunes entre ellos. Como ya se mencionó, por ahora se trabaja con la varada y el traslado en seco por lo que comnezaré mostrando los pasos de la varada y cuando coincida con alguna interfaz del traslado en seco, dicha interfaz será mostrada en sus dos versiones.
 
