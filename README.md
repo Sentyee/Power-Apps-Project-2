@@ -1,5 +1,5 @@
 # Proyecto Astican : Documentación
-![Logo Astican](img/asticanlogo.png)
+![Logo Astican](imgProyecto2/asticanlogo.png)
 
 ## Índice
 * [1. Introducción](#idIntroduccion)
@@ -46,7 +46,7 @@ La aplicación también debe permitir que otros usuarios que están relacionados
 ## 2. Diagramas<a name="idDiagramas"></a>
 
 ### 2.1. Diagrama de entidad relación:<a name="idER"></a>
-![Entidad Relación](img/AsticanERCompleto.PNG)
+![Entidad Relación](imgProyecto2/AsticanERCompleto.PNG)
 
 Este es el diagrama de entidad relación de la aplicación. Al ser tan grande los atributos no se muestran, estos serán mostrados en el modelo relacional en el siguiente apartado. Como se puede observar, existen varias tablas, estas tablas son "Barco", "Operación", "Incidencia", "Tipologia", "Varada", "Traslado en seco", "Botadura", "Traslado a flote", "FotosVarada", "FotosTrasladoEnSeco", "FotosBotadura", "FotosTrasladoAFlote" y por último "Tractor".
 Cada una de las tablas tiene su propio identificador como clave primaria por lo que no pueden ser ni null ni se pueden repetir dentro de la misma tabla. Algunas tablas tienen una clave foránea debido a la relación que tienen con otras tablas, este es el caso de la tabla "Operación" que tiene una clave foránea proviniente de la tabla "Barcos", siendo la clave de "Operación",a su vez, clave foránea en las tablas "Varada", "Traslado en seco", "Botadura", "Traslado a flote" e "incidencias". Las tablas "Tipologia" y "FotosVarada" tienen como clave foránea la clave de la tabla "Varada" mientras que las otras tres tablas de fotos tienen como clave foránea las claves primarias de sus respectivas operaciones, es decir, "FotosTrasladoEnSeco" tiene la de "Traslado en seco", "FotosBotadura" tiene la de "Botadura" y "Traslado a flote" tiene la de "Traslado a flote".
@@ -54,7 +54,7 @@ Cada una de las tablas tiene su propio identificador como clave primaria por lo 
 En cuanto a las relaciones, son todas de uno a muchos excepto cuatro de ellas que pasarán a ser tablas más adelante debido a la relación de muchos a muchos que forman entre la tabla "Tractor" y las tablas "Varada", "Traslado en seco", "Botadura" y "Traslado a flote". Las cuatro relaciones mencionadas son "Varada_Tractor", "TrasladoEnSeco_Tractor", "Botadura_Tractor" y "TrasladoAFlote_Tractor" cada una de ellas tendrá como clave principal, el conjunto de las claves de "Tractor" y una de las claves de las tablas mencionadas anteriormente según les correpondan.
 
 ### 2.2. Modelo relacional:<a name="idMR"></a>
-![Modelo Relacional](img/AsticanModeloRelacional.PNG)
+![Modelo Relacional](imgProyecto2/AsticanModeloRelacional.PNG)
 
 A lo dicho en el diagrama entidad relación se une el modelo relacional. Se puede ver todo el modelo de datos ya diseñado con todos sus atributos, la mayoría de ellos son de tipo "date". En un principio la mayoría de estos datos no podrán ser null.
 
@@ -90,7 +90,7 @@ Se puede ver también como las relaciones muchos a muchos se han transformado en
 
 De los requisitos de usuarios mencionados en el anterior apartado surge este diagrama de casos de uso.
 
-![Casos de uso](img/CasosDeUso.PNG)
+![Casos de uso](imgProyecto2/CasosDeUso.PNG)
 
 <a name="idDescripcion"></a>
 ## 5. Descripción del funcionamiento del sistema y especificaciones técnicas de la aplicación
@@ -109,9 +109,9 @@ Al entrar en la aplicación como usuario de Astican solo podrás ver los detalle
 
 En la ventana de configuración se muestra un botón de cambio a modo oscuro. A continuación se muestran capturas de esta ventana normal y en modo oscuro además del visualizador de usuarios de ASTICAN.
 
-![Detalles Varada Usuario](img/capturasPrototipado/DetallesUsuariovarada.PNG)
-![Ventana Configuración](img/capturasPrototipado/VentanaConfiguracion.PNG)
-![Ventana Configuración Modo Oscuro](img/capturasPrototipado/VentanaConfiguracionOscuro.PNG)
+![Detalles Varada Usuario](imgProyecto2/capturasPrototipado/DetallesUsuariovarada.PNG)
+![Ventana Configuración](imgProyecto2/capturasPrototipado/VentanaConfiguracion.PNG)
+![Ventana Configuración Modo Oscuro](imgProyecto2/capturasPrototipado/VentanaConfiguracionOscuro.PNG)
 
 En cuanto al gestor, es la única persona que hará uso de todas las funcionalidades de la aplicación, al iniciar la aplicación entrará a su menú. En el menú encontrará un botón para crear las operaciones que puede realizar y un botón que le muestra una previsualización de las operaciones.
 
@@ -121,8 +121,8 @@ Se puede ver el mismo footer que se encuentra en el menú del resto de usuarios 
 
 En esta pantalla aparece un botón para volver a la operación justo en el punto en que se dejó cuando se salió de esta para regresar al menú.
 
-![MenuGestor](img/capturasPrototipado/MenuGestor.PNG)
-![Menu Gestor Botón Volver](img/capturasPrototipado/MenuGestorBotonVolver.PNG)
+![MenuGestor](imgProyecto2/capturasPrototipado/MenuGestor.PNG)
+![Menu Gestor Botón Volver](imgProyecto2/capturasPrototipado/MenuGestorBotonVolver.PNG)
 
 Cada operación tiene sus pasos aunque algunos son comunes entre ellos. Como ya se mencionó, por ahora se trabaja con la varada y el traslado en seco por lo que comnezaré mostrando los pasos de la varada y cuando coincida con alguna interfaz del traslado en seco, dicha interfaz será mostrada en sus dos versiones.
 
