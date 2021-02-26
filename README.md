@@ -115,7 +115,7 @@ En la ventana de configuración se muestra un botón de cambio a modo oscuro. A 
 
 En cuanto al gestor, es la única persona que hará uso de todas las funcionalidades de la aplicación, al iniciar la aplicación entrará a su menú. En el menú encontrará un botón para crear las operaciones que puede realizar y un botón que le muestra una previsualización de las operaciones.
 
-El botón "nueva operación" llevan a las ventanas donde se muestran los pasos de cada operación mientras que el botón "visualizador" permite como ya ha sido mencionado, previsualizar las operaciones que ya han sido realizadas.
+El botón "nueva operación" llevan a las ventanas donde se muestran los pasos de cada operación mientras que el botón "visualizar operaciones" permite como ya ha sido mencionado, previsualizar las operaciones que ya han sido realizadas.
 
 Se puede ver el mismo footer que se encuentra en el menú del resto de usuarios con las mismas opciones.
 
@@ -182,9 +182,13 @@ En "maniobra a flote" hay dos checkbox, un desplegable y un botón delizable, el
 ![Servicios Básicos traslado a flote](imgProyecto2/capturasPrototipado/ServiciosBasicosTFlote.PNG)
 ![Maniobra a flote](imgProyecto2/capturasPrototipado/ManiobraAFlote.PNG)
 
-Cuando se pulsa el botón de "ver operaciones" que hay en el menú del gestor, te llevará a esta pantalla, la pantalla "visualizador", que te permite ver las operaciones por orden de identificador, es un menú con scroll para ver todas las operaciones que salen con presentación de tarjetas. En el cuadro de texto se puede buscar por tipo de operación y por nombre de barco. Al pulsar sobre las flechas ubicadas a la derecha de cada tarjeta se abrirá la ventana de detalles de esa operación y si se pincha sobre la flecha de arriba a la izquierda se vuelve a la ventana anterior.
+Cuando se pulsa el botón de "visualizar operaciones" que hay en el menú del gestor, te llevará a esta pantalla, la pantalla "visualizador", que te permite ver las operaciones por orden de identificador en la pestaña general, es un menú con scroll para ver todas las operaciones que salen con presentación de tarjetas. Las otras 4 perstañas coinciden con cada operación y sirven a modo de filtro para mostrar solo esas operaciones. En el cuadro de texto se puede buscar por tipo de operación y por nombre de barco. Al pulsar sobre las flechas ubicadas a la derecha de cada tarjeta se abrirá la ventana de detalles de esa operación. Aquí también se encuentra el footer, que tiene los iconos de configuración, menú y ayuda.
 
-![Visualizador](img/capturasPrototipado/Visualizador.PNG)
+![Visualizador](imgProyecto2/capturasPrototipado/Visualizador.PNG)
+![Visualizador Varada](imgProyecto2/capturasPrototipado/VisualizadorVarada.PNG)
+![Visualizador Botadura](imgProyecto2/capturasPrototipado/VisualizadorBotadura.PNG)
+![Visualizador Traslado en seco](imgProyecto2/capturasPrototipado/VisualizadorTSeco.PNG)
+![Visualizador Traslado a flote](imgProyecto2/capturasPrototipado/VisualizadorTFlote.PNG)
 
 Hasta esta interfaz se navega al pulsar en las flechas que están a la derecha de las tarjetas. Como se puede ver es la misma interfaz que la de detalles de los usuarios de Astican pero con el icono del lápiz que lleva a la ventana de edición de la operación en cuestión. La información presentada dependerá del registro escogido y de su tipo de operación.
 
