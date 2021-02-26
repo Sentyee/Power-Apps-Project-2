@@ -160,9 +160,12 @@ A continuación en la varada está la interfaz de la fase "Submarinistas", esta 
 
 ![Submarinistas](imgProyecto2/capturasPrototipado/Submarinistas.PNG)
 
-El siguiente paso es el denominado "Syncrolift" aquí hay tres checkbox que toman la fecha y hora actual cuando son pulsados. El botón de abajo navega hacia el siguiente paso.
+El siguiente paso es el denominado "Syncrolift" aquí hay tres checkbox que toman la fecha y hora actual cuando son pulsados.
 
-![Syncrolift](img/capturasPrototipado/Syncrolift.PNG)
+En caso de la botadura no es el siguiente paso pero es una fase que coincide en ambas operaciones. En la botadura esta fase viene después de "remolque en seco" que se verá a continuación y que si que corresponde con el siguiente paso de la varada. Para la botadura esta interfaz es igual que para la varada pero tiene un checkbox menos y un cuadro de texto más.
+
+![Syncrolift Varada](imgProyecto2/capturasPrototipado/SyncroliftVarada.PNG)
+![Syncrolift Botadura](imgProyecto2/capturasPrototipado/SyncroliftBotadura.PNG)
 
 La siguiente interfaz coincide con el cuarto paso del traslado en seco y con el séptimo de la varada, su nombre es "Remolque en seco" y en el caso de la varada presenta algunas diferencias con respecto a las otras tres operaciones. En la varada hay un desplegable que permite elegir una opción en carro de tiro y otro desplegable que deja elegir varias opciones mientras que en la interfaz del resto hay un checkbox para la fecha y hora, dos desplegables de selección individual y un desplegable de selección múltiple. El botón de abajo sirve para navegar a la última ventana en ambos casos. La primera imagen coincide con la fase de la varada y la segunda con la del traslado en seco.
 
