@@ -172,9 +172,15 @@ La siguiente interfaz coincide con el cuarto paso del traslado en seco y botadur
 ![Remolque en seco varada](imgProyecto2/capturasPrototipado/RemolqueSecoVarada.PNG)
 ![Remolque en seco](imgProyecto2/capturasPrototipado/RemolqueSeco.PNG)
 
-Esta interfaz es la última de las interfaces para los pasos o fases y coincide en todas las operaciones. Hay tres checkbox que recogen la fecha y hora actual al ser presionados, el mensaje que sale en medio de los campos a rellenar se debe a que aprovechando las posibilidades de Power Apps he usado un solo formulario para las cuatro operaciones por lo que hasta que no se defina una tabla para rellenar los datos, aparecerá ese mensaje. Al darle al botón "finalizar" guardará los datos que corresponden y volverá a la pantalla de menú del gestor.
+"Servicios básicos" es la última interfaz para los pasos o fases y coincide en traslado en seco, traslado a flote y varada. En el caso de la botadura, su último paso se llama "maniobra a flote" y se llega a este desde la interfaz de syncrolift.
 
-![Servicios Basicos](img/capturasPrototipado/ServiciosBasicos.PNG)
+En "servicios básicos", hay tres checkbox que recogen la fecha y hora actual al ser presionados en el caso de la varada y el traslado en seco, en el traslado a flote hay un checkbox menos. Al darle al botón "guardar y finalizar" guardará los datos que corresponden y volverá a la pantalla de menú del gestor.
+
+En "maniobra a flote" hay dos checkbox, un desplegable y un botón delizable, el botón de "guardar y finalizar" hace lo mismo que el de "servicios básicos"
+
+![Servicios Básicos](imgProyecto2/capturasPrototipado/ServiciosBasicos.PNG)
+![Servicios Básicos traslado a flote](imgProyecto2/capturasPrototipado/ServiciosBasicosTFLote.PNG)
+![Maniobra a flote](imgProyecto2/capturasPrototipado/ManiobraAFlote.PNG)
 
 Cuando se pulsa el botón de "ver operaciones" que hay en el menú del gestor, te llevará a esta pantalla, la pantalla "visualizador", que te permite ver las operaciones por orden de identificador, es un menú con scroll para ver todas las operaciones que salen con presentación de tarjetas. En el cuadro de texto se puede buscar por tipo de operación y por nombre de barco. Al pulsar sobre las flechas ubicadas a la derecha de cada tarjeta se abrirá la ventana de detalles de esa operación y si se pincha sobre la flecha de arriba a la izquierda se vuelve a la ventana anterior.
 
