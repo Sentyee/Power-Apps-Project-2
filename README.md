@@ -141,10 +141,10 @@ La tercera imagen corresponde con la botadura, es igual que el resto, se parece 
 
 La última imagen es del traslado a flote, esta es la versión de la interfaz con más campos, tiene 2 campos de texto, 2 desplegables y 2 checkbox, al hacer scroll se encuentran otros dos desplegables uno para las horas y otro para los minutos además de los botones básicos de todos los pasos.
 
-![Planificacion Varada](img/capturasPrototipado/PlanificacionVarada.PNG)
-![Planificacion Traslado en seco](img/capturasPrototipado/PlanificacionTSeco.PNG)
-![Planificacion Botadura](img/capturasPrototipado/PlanificacionBotadura.PNG)
-![Planificacion Traslado a flote](img/capturasPrototipado/PlanificacionTFlote.PNG)
+![Planificacion Varada](imgProyecto2/capturasPrototipado/PlanificacionVarada.PNG)
+![Planificacion Traslado en seco](imgProyecto2/capturasPrototipado/PlanificacionTSeco.PNG)
+![Planificacion Botadura](imgProyecto2/capturasPrototipado/PlanificacionBotadura.PNG)
+![Planificacion Traslado a flote](imgProyecto2/capturasPrototipado/PlanificacionTFlote.PNG)
 
 La siguiente interfaz corresponde con la fase "Buque" donde podemos observar cuatro cuadros de texto, un desplegable y un checkbox que sirve para lo mismo que los anteriores. El botón de abajo sirve para avanzar al siguiente paso.
 
