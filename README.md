@@ -90,7 +90,7 @@ Se puede ver también como las relaciones muchos a muchos se han transformado en
 
 De los requisitos de usuarios mencionados en el anterior apartado surge este diagrama de casos de uso.
 
-![Casos de uso](img/casosdeuso.PNG)
+![Casos de uso](img/CasosDeUso.PNG)
 
 <a name="idDescripcion"></a>
 ## 5. Descripción del funcionamiento del sistema y especificaciones técnicas de la aplicación
@@ -105,9 +105,13 @@ Ambos usuarios tienen la posibilidad de activar o desactivar el modo oscuro seg�
 
 ### 6.1. Diseño Inicial:<a name="idDiseño"></a>
 
-Al entrar en la aplicación como usuario de Astican solo podrás ver los detalles de la última operación, al ser 4 operaciones diferentes, en la misma interfaz se juega con la visibilidad de la información para mostrar la adecuada, debido a la cantidad de datos que hay, se ha optado por hacer una ventana con scroll que muestre toda la información. Cabe destacar que esta interfaz es la misma que la de detalles que verá el gestor pero sin el icono del lápiz que activará el modo de edición de la operación ni el icono de la cámara que le llevará a la ventana de imágenes como se verá más adelante. La flecha superior izquierda sirve para salir en el caso de los usuarios de Astican y para volver atrás en el caso del gestor. Se puede observar que debajo del título hay un botón deslizante, este permite al usuario de Astican cambiar el modo de visualización de la aplicación a modo oscuro. Más adelante se verá como luce este modo.
+Al entrar en la aplicación como usuario de Astican solo podrás ver los detalles de la última operación, al ser 4 operaciones diferentes, en la misma interfaz se juega con la visibilidad de la información para mostrar la adecuada, debido a la cantidad de datos que hay, se ha optado por hacer una ventana con scroll que muestre toda la información. Cabe destacar que esta interfaz es la misma que la de detalles que verá el gestor pero sin el icono del lápiz que activará el modo de edición de la operación ni el icono de la cámara que le llevará a la ventana de imágenes como se verá más adelante. La flecha superior izquierda sirve para salir en el caso de los usuarios de Astican y para volver atrás en el caso del gestor. Se puede observar como en la parte inferior hay un footer con un engranaje y un icono de exclamación, el engranaje lleva a la ventana de configuración y el icono de la exclamación abrirá la ayuda de la aplicación.
+
+En la ventana de configuración se muestra un botón de cambio a modo oscuro. A continuación se muestran capturas de esta ventana normal y en modo oscuro además del visualizador de usuarios de ASTICAN.
 
 ![Detalles Varada Usuario](img/capturasPrototipado/DetallesUsuariovarada.PNG)
+![Ventana Configuración](img/capturasPrototipado/VentanaConfiguracion.PNG)
+![Ventana Configuración Modo Oscuro](img/capturasPrototipado/VentanaConfiguracionOscuro.PNG)
 
 En cuanto al gestor, es la única persona que hará uso de todas las funcionalidades de la aplicación, al iniciar la aplicación entrará a su menú. En el menú encontrará botones con los procedimientos que puede realizar y al final un botón que le muestra una previsualización de las operaciones.
 
