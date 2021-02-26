@@ -190,14 +190,12 @@ Cuando se pulsa el botón de "visualizar operaciones" que hay en el menú del ge
 ![Visualizador Traslado en seco](imgProyecto2/capturasPrototipado/VisualizadorTSeco.PNG)
 ![Visualizador Traslado a flote](imgProyecto2/capturasPrototipado/VisualizadorTFlote.PNG)
 
-Hasta esta interfaz se navega al pulsar en las flechas que están a la derecha de las tarjetas. Como se puede ver es la misma interfaz que la de detalles de los usuarios de Astican pero con el icono del lápiz que lleva a la ventana de edición de la operación en cuestión. La información presentada dependerá del registro escogido y de su tipo de operación.
+Hasta esta interfaz se navega al pulsar en las flechas que están a la derecha de las tarjetas. Como se puede ver es la misma interfaz que la de detalles de los usuarios de Astican pero con el icono del lápiz que activa el modo edición de la operación en cuestión y la cámara que lleva a la pantalla de imágenes. La información presentada dependerá del registro escogido y de su tipo de operación.
 
-![Detalles gestor varada](img/capturasPrototipado/DetallesGestorvarada.PNG)
+Al hacer click en el lápiz se activa el modo edición, que es la misma interfaz que la de detalles pero con los campos para cambiar, jugando con la visibilidad se obtiene este resultado. En el footer, el icono de la cámara se sustituye por un icono de guardar para guardar los cambios y el lápiz por un icono de una "X" para salir del modo edición.
 
-Esta es la ventana de edición de registros, también juega con la visibilidad ya que cada operación tiene datos distintos. Cuenta con scroll para editar todo lo necesario en la misma pantalla y al final del todo hay un botón que guaradará los cambios.
-
-![Editar varada](img/capturasPrototipado/Editararada.PNG)
-![Editar traslado en seco](img/capturasPrototipado/EditarTSeco.PNG)
+![Detalles gestor varada](imgProyecto2/capturasPrototipado/DetallesGestorVarada.PNG)
+![Editar](imgProyecto2/capturasPrototipado/Editar.PNG)
 
 Como se puede ver, en la mayoría de interfaces aparece un icono de una cámara, al pulsar sobre él navegará hacia la interfaz dedicada a la adición de fotos, esta interfaz tiene dos versiones a pesar de ser la misma interfaz, a la primera se accede desde las interfaces de los pasos de cada operación y coincide con la primera imagen mostrada, a la segunda se accede desde la pantalla de edición y coincide con la segunda imagen. Como se puede ver ambas tienen un cuadro para insertar la imagen, al pulsar sobre el botón "añadir foto", esta se añadirá, en la segunda imagen hay un desplegable que sirve para indicar en que paso se quiere añadir dicha imagen, en la otra no hace falta ya que es automático debido a que se ingresa a la interfaz desde un paso concreto. Bajo el botón aparecen las imágenes en una tarjeta, junto con el paso en el que han sido sacadas y un icono de papelera, este sirve para borrar esa imagen. En la esquina superior derecha hay una flecha de actualización, esta actualizará la lista de imágenes al ser pulsada. Por último en la esquina superior izquierda se encuentra la flecha que sirve para volver a la página anterior.
 
