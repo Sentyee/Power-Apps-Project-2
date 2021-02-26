@@ -167,10 +167,10 @@ En caso de la botadura no es el siguiente paso pero es una fase que coincide en 
 ![Syncrolift Varada](imgProyecto2/capturasPrototipado/SyncroliftVarada.PNG)
 ![Syncrolift Botadura](imgProyecto2/capturasPrototipado/SyncroliftBotadura.PNG)
 
-La siguiente interfaz coincide con el cuarto paso del traslado en seco y con el séptimo de la varada, su nombre es "Remolque en seco" y en el caso de la varada presenta algunas diferencias con respecto a las otras tres operaciones. En la varada hay un desplegable que permite elegir una opción en carro de tiro y otro desplegable que deja elegir varias opciones mientras que en la interfaz del resto hay un checkbox para la fecha y hora, dos desplegables de selección individual y un desplegable de selección múltiple. El botón de abajo sirve para navegar a la última ventana en ambos casos. La primera imagen coincide con la fase de la varada y la segunda con la del traslado en seco.
+La siguiente interfaz coincide con el cuarto paso del traslado en seco y botadura y con el séptimo de la varada, su nombre es "Remolque en seco" y en el caso de la varada presenta algunas diferencias con respecto a las otras dos operaciones. En la varada hay un desplegable que permite elegir una opción en carro de tiro y otro desplegable que deja elegir varias opciones mientras que en la interfaz del resto hay un checkbox para la fecha y hora, dos desplegables de selección individual y un desplegable de selección múltiple. La primera imagen coincide con la fase de la varada y la segunda con la del traslado en seco y la botadura.
 
-![Remolque en seco varada](img/capturasPrototipado/RemolqueEnSecoVarada.PNG)
-![Remolque en seco traslado en seco](img/capturasPrototipado/RemolqueEnSecoTSeco.PNG)
+![Remolque en seco varada](imgProyecto2/capturasPrototipado/RemolqueSecoVarada.PNG)
+![Remolque en seco](imgProyecto2/capturasPrototipado/RemolqueSeco.PNG)
 
 Esta interfaz es la última de las interfaces para los pasos o fases y coincide en todas las operaciones. Hay tres checkbox que recogen la fecha y hora actual al ser presionados, el mensaje que sale en medio de los campos a rellenar se debe a que aprovechando las posibilidades de Power Apps he usado un solo formulario para las cuatro operaciones por lo que hasta que no se defina una tabla para rellenar los datos, aparecerá ese mensaje. Al darle al botón "finalizar" guardará los datos que corresponden y volverá a la pantalla de menú del gestor.
 
