@@ -323,20 +323,6 @@ https://github.com/Sentyee/Power-Apps-Project-2.git
 
 ## 11. Planificación<a name="idPlanificacion"></a>
 
-Para comenzar con el proyecto lo primero que hizo fue verme varios vídeos sobre el funcionamiento de Power Apps dado que es una tecnología nueva y totalmente distinta a lo que estamos acostumbrados. Tras un par de días comencé a hacer una aplicación de prueba para investigar más a fondo el funcionamiento e intentar entender para que servía cada cosa y que funciones tenían. Comencé a trabajar con Google Sheets como origen de datos improvisado mientras descubríamos si podíamos trabajar en Excel, creé un total de 3 aplicaciones usando Google Sheets como origen de datos hasta que entendimos el funcionamiento de Power Apps con Excel online.
-
-A medida que iba desarrollando las aplicaciones con Google Sheets empecé a estudiar un poco mejor la base de datos, creé un pequeño diagrama de entidad relación que poco a poco fui modificando y creé el diagrama de casos de uso.
-
-Sobre el 13 de noviembre, con las ideas más claras sobre como usar Power Apps y como iba a ser la base de datos, empecé con el prototipado, fui haciendo el diseño poco a poco mientras seguía viendo algún vídeo sobre Power Apps, cuando acabé el prototipo empecé a trabajar un poco en la documentación. Con el prototipo, el diagrama de entidad relación y con una aplicación de prueba con Excel como origen de datos, me puse a desarrollar la aplicación que en un principio sería la final.
-
-El día 1 de diciembre, Astican nos envía el borrador de lo que quieren en su aplicación y gracias a eso pude desarrollar todo el diagrama de entidad relación. El día 3, con el diagrama nuevo hecho, empiezo la aplicación final.
-
-El día 12 de diciembre con la aplicación casi acabada, me puse a hacer el modelo relacional.
-
-El día 13 de diciembre seguí ultimando la aplicación y a modificar y completar la documentación.
-
-
-
 Tras la segunda reunión a finales del primer trimestre, quedó un poco más claro como iba a ser el modelo de datos, querían que los desplegables fueran editables, por lo que se deberían contemplar en el modelo de datos. Una vez empezamos con el proyecto 2, nos pusimos manos a la obra con el diagrama entidad relación, decidimos usar de base el que había hecho Acoidán para el proyecto 1 pero cambiando una gran parte para que fuese más eficiente y completo.
 
 Tuvimos una tercera reunión de la que sacamos alguna cosa a modificar en el diagrama, una vez hecho, Víctor comenzó a trabajar en la base de datos, que migramos a SharePoint debido a lo que hablamos en esa reunión, mientras que Acoidán comenzó con una aplicación nueva desde cero ya que usaríamos la aplicación que desarrolló en el proyecto 1 como base.
