@@ -74,17 +74,17 @@ Se puede ver también como las relaciones muchos a muchos se han transformado en
 
 * La aplicación tendrá dos interfaces de inicio diferentes.
 
-  * La interfaz del gestor será un menú con 5 botones 4 de ellos para las operaciones y uno para ver un resumen de todas las operaciones.
+  * La interfaz del gestor será un menú con 2 botones, uno de ellos para las operaciones y uno para ver un resumen de todas las operaciones.
     
     * Las operaciones tendrán diferentes interfaces para rellenar datos.
     
-    * El resumen te permite seleccionar cualquier operación y ver y editar sus datos, esta interfaz tendrá un scroll para ver todas las operaciones y permitirá la búsqueda por nombre de barco y operación.
+    * El resumen te permite seleccionar cualquier operación y ver y editar sus datos, esta interfaz tendrá un scroll para ver todas las operaciones y permitirá la búsqueda por nombre de barco y operación. También contiene 5 botones que sirven para filtrar por tipos de operaciones.
     
-  * La interfaz de los usuarios autorizados de Astican consistirá en la pantalla de detalles de la última operación.
+  * La interfaz de los usuarios autorizados de Astican consistirá en la pantalla de detalles de la última operación y de la pantalla de configuración.
   
 * En caso de que hubiese algún problema con el origen de datos, se mostraría un mensaje de error en pantalla.
 
-* Ningún dato puede quedar en blanco, en caso de que no se rellene algo, se mostrará un mensaje indicativo y la aplicación no avanzará hasta que no sea rellenado.
+* Ningún dato puede quedar en blanco, hasta que todos los datos de un paso estén rellenos, la app no permitirá el avance.
 
 ## 4. Casos de Uso<a name="idCasosDeUso"></a>
 
