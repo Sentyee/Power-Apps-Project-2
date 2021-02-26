@@ -133,10 +133,18 @@ El siguiente paso en la varada es "Cama de varada" aquí se encuentran dos check
 
 ![Cama Varada](imgProyecto2/capturasPrototipado/CamaVarada.PNG)
 
-El siguiente paso es "Planificacion", es el tercer paso de la varada y el segundo del traslado en seco. La primera imagen corresponde con la apariencia de la pantalla cuando es una varada, como se puede ver tiene un desplegable que da varias opciones, un checkbox que recoge la fecha y hora en la que es pulsado, dos cuadros de texto para escribir la hora y dos para escribir los minutos y por último un cuadro de texto para escribir el número de remolcadores. En cuanto a la segunda imagen, que corresponde con el traslado en seco hay dos cuadros de texto normales, dos checkbox que recogen la fecha y hora actual cuando son pulsados y un cuadro de texto para la hora y otro para los minutos. El botón de abajo sirve para cambiar de fase en ambos casos.
+El siguiente paso es "Planificacion", es el tercer paso de la varada y el segundo del traslado en seco, traslado a flote y botadura. La primera imagen corresponde con la apariencia de la pantalla cuando es una varada, como se puede ver tiene dos desplegables de selección única que dan varias opciones, un checkbox que recoge la fecha y hora en la que es pulsado y dos desplegables para elegir la hora y dos para elegir los minutos. Se puede ver que tiene un scroll, lo que se encuentra más abajo son los botones comunes entre las interfaces de los pasos, el boton de ir a la siguiente fase y el de volver atrás.
+
+En cuanto a la segunda imagen, que corresponde con el traslado en seco hay dos cuadros de texto normales, dos checkbox que recogen la fecha y hora actual cuando son pulsados y un desplegable para la hora y otro para los minutos. También tiene un scroll para que los botones comunes tengan espacio.
+
+La tercera imagen corresponde con la botadura, es igual que el resto, se parece a la del traslado en seco pero con un cuadro de texto menos y con dos desplegables para horas y minutos más.
+
+La última imagen es del traslado a flote, esta es la versión de la interfaz con más campos, tiene 2 campos de texto, 2 desplegables y 2 checkbox, al hacer scroll se encuentran otros dos desplegables uno para las horas y otro para los minutos además de los botones básicos de todos los pasos.
 
 ![Planificacion Varada](img/capturasPrototipado/PlanificacionVarada.PNG)
 ![Planificacion Traslado en seco](img/capturasPrototipado/PlanificacionTSeco.PNG)
+![Planificacion Botadura](img/capturasPrototipado/PlanificacionBotadura.PNG)
+![Planificacion Traslado a flote](img/capturasPrototipado/PlanificacionTFlote.PNG)
 
 La siguiente interfaz corresponde con la fase "Buque" donde podemos observar cuatro cuadros de texto, un desplegable y un checkbox que sirve para lo mismo que los anteriores. El botón de abajo sirve para avanzar al siguiente paso.
 
