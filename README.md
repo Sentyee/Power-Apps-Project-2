@@ -124,12 +124,10 @@ En esta pantalla aparece un botón para volver a la operación justo en el punto
 ![MenuGestor](imgProyecto2/capturasPrototipado/MenuGestor.PNG)
 ![Menu Gestor Botón Volver](imgProyecto2/capturasPrototipado/MenuGestorBotonVolver.PNG)
 
-Cada operación tiene sus pasos aunque algunos son comunes entre ellos. Como ya se mencionó, por ahora se trabaja con la varada y el traslado en seco por lo que comnezaré mostrando los pasos de la varada y cuando coincida con alguna interfaz del traslado en seco, dicha interfaz será mostrada en sus dos versiones.
+Cada operación tiene sus pasos aunque algunos son comunes entre ellos. El primer paso es el de "Inicio", este es común en todas las operaciones, por esto esta interfaz es la misma para las 4 operaciones. Hay un desplegable que permite seleccionar la operación y el segundo desplegable está deshabilitado hasta seleccionar alguna, el segundo desplegable permite seleccionar el buque. En esta pantalla hay un botón para volver atrás y otro para ir al siguiente paso que no se habilitará hasta que no se rellenen todos los campos. Como se puede ver hay un footer, este es el mismo que el visto previamente pero jugando con la visibilidad se han habilitado dos opciones nuevas, la cámara abre el menú de imágenes mientras que la papelera permite borrar la operación que se está creando.
 
-El primer paso es el de "Inicio", este es común en todas las operaciones aunque en la varada presenta alguna diferencia. Como se puede ver en la primera imagen, hay un cuadro para rellenar el nombre del barco y otro para el tipo mientras que la segunda te da la opción de escribir el nombre del barco y se mostrará automáticamente el tipo justo debajo. La primera imagen corresponde con el inicio de la varada y la segunda con la del traslado en seco. El botón de abajo te lleva al siguiente paso y la flecha de arriba a la izquierda para volver atrás.
-
-![Inicio Varada](img/capturasPrototipado/InicioVarada.PNG)
-![Inicio Traslado en seco](img/capturasPrototipado/InicioTSeco.PNG)
+![Paso Inicio](imgProyecto2/capturasPrototipado/PasoInicio.PNG)
+![Paso Inicio Lleno](imgProyecto2/capturasPrototipado/PasoInicioLlenoPNG)
 
 El siguiente paso en la varada es "Cama de varada" aquí se encuentran dos checkbox que recogen la fecha y hora del momento en el que son pulsados además de mostrar un mensaje que te indica la fecha y hora guardada, se encuentra también un desplegable que te dejará elegir entre varias opciones para seleccionar la tipología. El botón de abajo te lleva al siguiente paso.
 
