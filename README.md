@@ -146,9 +146,15 @@ La última imagen es del traslado a flote, esta es la versión de la interfaz co
 ![Planificacion Botadura](imgProyecto2/capturasPrototipado/PlanificacionBotadura.PNG)
 ![Planificacion Traslado a flote](imgProyecto2/capturasPrototipado/PlanificacionTFlote.PNG)
 
-La siguiente interfaz corresponde con la fase "Buque" donde podemos observar cuatro cuadros de texto, un desplegable y un checkbox que sirve para lo mismo que los anteriores. El botón de abajo sirve para avanzar al siguiente paso.
+Tras pasar por la interfaz anterior, la varada pasa a la interfaz que corresponde con la fase "Buque" donde podemos observar cuatro desplegables, un cuadro de texto y un checkbox que se encuentra más abajo que sirve para lo mismo que los anteriores.
 
-![Buque](img/capturasPrototipado/Buque.PNG)
+La segunda interfaz coincide con el tercer paso del traslado en seco y de la botadura, que se llama "primer movimiento" y tiene tres checkbox para recoger la fecha y hora. Esta interfaz es la misma para las dos operaciones.
+
+La tercera interfaz es el paso de "tralado a flote" de la propia operación traslado a flote, hay tres checkbox y dos desplegables, el espacio en blanco que se ve es debido a que hay texto oculto que se hace visible una vez seleccionas el checkbox, como se vio previamente.
+
+![Buque](imgProyecto2/capturasPrototipado/Buque.PNG)
+![Primer Movimiento](imgProyecto2/capturasPrototipado/PrimerMovimiento.PNG)
+![Fase Traslado a Flote](imgProyecto2/capturasPrototipado/FaseTFlote.PNG)
 
 A continuación está la interfaz de la fase "Submarinistas", esta tiene un cuadro de texto y dos checkbox para la fecha y hora además del botón que tienen todas las interfaces de los pasos para cambiar de fase.
 
@@ -157,10 +163,6 @@ A continuación está la interfaz de la fase "Submarinistas", esta tiene un cuad
 El siguiente paso es el denominado "Syncrolift" aquí hay tres checkbox que toman la fecha y hora actual cuando son pulsados. El botón de abajo navega hacia el siguiente paso.
 
 ![Syncrolift](img/capturasPrototipado/Syncrolift.PNG)
-
-Esta interfaz coincide con el tercer paso del traslado en seco, que se llama "primer movimiento" y tiene tres checkbox para recoger la fecha y hora además del botón de navegación al siguiente paso.
-
-![Primer Movimiento](img/capturasPrototipado/PrimerMovimiento.PNG)
 
 La siguiente interfaz coincide con el cuarto paso del traslado en seco y con el séptimo de la varada, su nombre es "Remolque en seco" y en el caso de la varada presenta algunas diferencias con respecto a las otras tres operaciones. En la varada hay un desplegable que permite elegir una opción en carro de tiro y otro desplegable que deja elegir varias opciones mientras que en la interfaz del resto hay un checkbox para la fecha y hora, dos desplegables de selección individual y un desplegable de selección múltiple. El botón de abajo sirve para navegar a la última ventana en ambos casos. La primera imagen coincide con la fase de la varada y la segunda con la del traslado en seco.
 
