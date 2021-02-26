@@ -127,7 +127,7 @@ En esta pantalla aparece un botón para volver a la operación justo en el punto
 Cada operación tiene sus pasos aunque algunos son comunes entre ellos. El primer paso es el de "Inicio", este es común en todas las operaciones, por esto esta interfaz es la misma para las 4 operaciones. Hay un desplegable que permite seleccionar la operación y el segundo desplegable está deshabilitado hasta seleccionar alguna, el segundo desplegable permite seleccionar el buque. En esta pantalla hay un botón para volver atrás y otro para ir al siguiente paso que no se habilitará hasta que no se rellenen todos los campos. Como se puede ver hay un footer, este es el mismo que el visto previamente pero jugando con la visibilidad se han habilitado dos opciones nuevas, la cámara abre el menú de imágenes mientras que la papelera permite borrar la operación que se está creando.
 
 ![Paso Inicio](imgProyecto2/capturasPrototipado/PasoInicio.PNG)
-![Paso Inicio Lleno](imgProyecto2/capturasPrototipado/PasoInicioLlenoPNG)
+![Paso Inicio Lleno](imgProyecto2/capturasPrototipado/PasoInicioLleno.PNG)
 
 El siguiente paso en la varada es "Cama de varada" aquí se encuentran dos checkbox que recogen la fecha y hora del momento en el que son pulsados además de mostrar un mensaje que te indica la fecha y hora guardada, se encuentra también un desplegable que te dejará elegir entre varias opciones para seleccionar la tipología. El botón de abajo te lleva al siguiente paso.
 
