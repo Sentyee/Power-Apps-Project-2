@@ -205,15 +205,16 @@ Como se puede ver, en la mayoría de interfaces aparece el icono de la cámara e
 
 * La aplicación es útil, cumpliendo todos los requisitos de la empresa, tomar datos sobre las operaciones, visualizarlos y editarlos.
 
-![Menu Gestor](img/capturasPrototipado/MenuGestor.PNG)
-![Detalles gestor varada](img/capturasPrototipado/DetallesGestorVarada.PNG)
-![Editar varada](img/capturasPrototipado/EditarVarada.PNG)
+![Menu Gestor](imgProyecto2/capturasPrototipado/MenuGestor.PNG)
+![Detalles gestor varada](imgProyecto2/capturasPrototipado/DetallesGestorVarada.PNG)
+![Editar](imgProyecto2/capturasPrototipado/Editar.PNG)
 
 
 
-* Prevee errores, permitiendo la edición de los datos añadidos y mostrando mensajes de error cuando algún campo esta vacío.
+* Prevee errores, permitiendo la edición de los datos añadidos y deshabilitando campos o botones hasta que no se rellena todo lo necesario.
 
-![Mensaje Error](img/capturasPrototipado/MensajeError.PNG)
+![Paso Inicio](imgProyecto2/capturasPrototipado/PasoInicio.PNG)
+![Paso Inicio Lleno](imgProyecto2/capturasPrototipado/PasoInicioLleno.PNG)
 
 
 
@@ -224,7 +225,7 @@ Como se puede ver, en la mayoría de interfaces aparece el icono de la cámara e
 * Es fácil de aprender y de entender, con iconos y textos explicativos.
 
 ![Iconos1](img/capturasPrototipado/Iconos1.PNG)
-![Iconos2](img/capturasPrototipado/Iconos2.PNG)
+![Visualizador](imgProyecto2/capturasPrototipado/Visualizador.PNG)
 
 
 
