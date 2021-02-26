@@ -231,21 +231,21 @@ Como se puede ver, en la mayoría de interfaces aparece el icono de la cámara e
 
 * El usuario debe ser capaz de iniciar acciones y controlar tareas.
 
-![Añadir foto con foto](img/capturasPrototipado/AñadirFotoConFoto.PNG)
+![Iniciar Acciones](imgProyecto2/capturasPrototipado/IniciarAcciones.PNG)
 
 
 
 * El usuario es capaz de personalizar la interfaz.
 
-![Menu Gestor desplegable](img/capturasPrototipado/MenuGestorDesplegable.PNG)
-![Menu Gestor modo oscuro desplegable](img/capturasPrototipado/MenuGestorModoOscuroDesplegable.PNG)
+![Ventana Configuración](imgProyecto2/capturasPrototipado/VentanaConfiguracion.PNG)
+![Ventana Configuración Modo Oscuro](imgProyecto2/capturasPrototipado/VentanaConfiguracionOscuro.PNG)
 
 
 
 * El usuario es capaz de acceder a todo el contenido que tiene permitido utilizar.
 
-![Menu Gestor](img/capturasPrototipado/MenuGestor.PNG)
-![Detalles Varada Usuario](img/capturasPrototipado/DetallesUsuarioVarada.PNG)
+![Menu Gestor](imgProyecto2/capturasPrototipado/MenuGestor.PNG)
+![Detalles Varada Usuario](imgProyecto2/capturasPrototipado/DetallesUsuariovarada.PNG)
 
 
 
@@ -255,21 +255,21 @@ Como se puede ver, en la mayoría de interfaces aparece el icono de la cámara e
 
 * Ofrece beneficios, ahorra tiempo al usuario y mejora su eficiencia.
 
-![Primer Movimiento](img/capturasPrototipado/PrimerMovimiento.PNG)
-![Planificacion Traslado en seco](img/capturasPrototipado/PlanificacionTSeco.PNG)
+![Primer Movimiento](imgProyecto2/capturasPrototipado/PrimerMovimiento.PNG)
+![Planificacion Traslado en seco](imgProyecto2/capturasPrototipado/PlanificacionTSeco.PNG)
 
 
 
 * La interfaz posee una simplicidad en el diseño, no existe sobrecarga.
 
-![Visualizador](img/capturasPrototipado/Visualizador.PNG)
+![Visualizador](imgProyecto2/capturasPrototipado/Visualizador.PNG)
 
 
 
 * El usuario debe ser capaz de interactuar con la aplicación.
 
-![Menu Gestor](img/capturasPrototipado/MenuGestor.PNG)
-![Menu Gestor desplegable](img/capturasPrototipado/MenuGestorDesplegable.PNG)
+![Visualizador Botadura](imgProyecto2/capturasPrototipado/VisualizadorBotadura.PNG)
+![Visualizador Varada](imgProyecto2/capturasPrototipado/VisualizadorVarada.PNG)
 
 
 
