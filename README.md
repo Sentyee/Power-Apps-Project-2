@@ -224,7 +224,7 @@ Como se puede ver, en la mayoría de interfaces aparece el icono de la cámara e
 
 * Es fácil de aprender y de entender, con iconos y textos explicativos.
 
-![Iconos1](img/capturasPrototipado/Iconos1.PNG)
+![Iconos1](imgProyecto2/capturasPrototipado/Iconos1.PNG)
 ![Visualizador](imgProyecto2/capturasPrototipado/Visualizador.PNG)
 
 
